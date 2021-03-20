@@ -1,5 +1,7 @@
 ### Hi 👋
 - ⛄ I am 22 Years old
+- ⌨️ I've been programming for 9 years
+- 👨‍🎓Currently studying BSc Computing + IT at The Open University 
 - 🇬🇧 I was born and currently live in the UK
 - 🔭 At the moment, I'm currently working on a DockerNoCommands + Area Alert
 - 💻 I'm working towards releasing SaaS products with @codox
