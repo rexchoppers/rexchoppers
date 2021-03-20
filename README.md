@@ -1,6 +1,6 @@
 ### Hi 👋
 - ⛄ I am 22 Years old
-- 🇬🇧 I am from + live in the UK
+- 🇬🇧 I was born and currently live in the UK
 - 🔭 At the moment, I'm currently working on a DockerNoCommands + Area Alert
 - 💻 I'm working towards releasing SaaS products with @codox
 - 🏢 I work as a Senior Software Engineer at @broadstone-engage
