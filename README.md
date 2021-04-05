@@ -3,7 +3,7 @@
 - ⌨️ I've been programming for 9 years
 - 👨‍🎓Currently studying BSc Computing + IT at The Open University 
 - 🇬🇧 Born and living in the UK
-- 🔭 Current Projects: DockerNoCommands + Area Alert
+- 🔭 Current Projects: DockerNoCommands + Area Alert (These are on and off due to Uni work!)
 - 💻 I'm working towards releasing SaaS products with @codox
 - 🏢 Senior Software Engineer at @broadstone-engage
 - 🌱 I’m currently learning advanced C, COBOL, Flutter and perfecting my GO skills
