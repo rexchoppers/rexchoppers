@@ -11,7 +11,7 @@
 - 📩 DevOps: Github, Gitlab, Docker, Kubernetes
 - 💾 Databases: MySQL, Postgres, MSSQL, MongoDB, Redis
 - ☁️ Cloud Platforms: DigitalOcean, Google Cloud Platform, AWS, Heroku
-- 🤷‍♂️ Other stuff: Grafana, Linux, RabbitMQ, NATS MQ
+- 🤷‍♂️ Other stuff: Grafana, Linux, RabbitMQ, NATS MQ, OpsGenie
 
 
 My repositories consist of new and in-progress projects alongside the old and very ugly projects 
