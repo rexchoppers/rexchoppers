@@ -6,7 +6,7 @@
 - 🔭 Current Projects: AWMS + University assignments
 - 💻 I'm working towards releasing SaaS products with @codox
 - 🏢 Senior Software Engineer at @broadstone-engage
-- 🌱 I’m currently learning advanced C, COBOL, Erlang and perfecting my GO skills
+- 🌱 I’m currently learning Rust and perfecting my GO skills (To eventually learn: COBOL, Erlang and actually make a project in more advanced C)
 - 📖 Programming Languages: PHP, GO, JS/TS, Java, Python, Dart, SQL, HTML/CSS (The web stuff)
 - 📩 DevOps: Github, Gitlab, Docker, Kubernetes
 - 💾 Databases: MySQL, Postgres, MSSQL, MongoDB, Redis
