@@ -1,6 +1,6 @@
 ### Hi 👋
 - ⛄ I am 23 Years old
-- ⌨️ I've been programming for 9 years
+- ⌨️ I've been programming for 10 years
 - 👨‍🎓Currently studying BSc Computing + IT at The Open University 
 - 🇬🇧 Born and living in the UK
 - 🔭 Current Projects: AWMS + University assignments
