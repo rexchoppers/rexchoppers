@@ -5,7 +5,7 @@
 - 🇬🇧 Born and living in the UK
 - 🔭 Current Projects: Status-For-Systems + AWMS w/ Codox + University assignments
 - 💻 I'm working towards releasing SaaS products with @codox
-- 🏢 Senior Software Engineer at @broadstone-engage
+- 🏢 Technical Lead @papertrailio
 - 🌐 Website: www.rexchoppers.com
 - 🌱 I’m currently learning more QT/C++
 - 📖 Programming Languages: PHP, GO, JS/TS, Java, Python, Dart, SQL, HTML/CSS (The web stuff)
