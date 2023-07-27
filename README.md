@@ -3,7 +3,7 @@
 - ⌨️ I've been programming for 11 years
 - 👨‍🎓Currently studying BSc Computing + IT at The Open University 
 - 🇬🇧 Born and living in the UK
-- 🔭 Current Projects: Status-For-Systems + AWMS w/ Codox + University assignments
+- 🔭 Current Projects: AWMS w/ Codox + AWS Certifications
 - 💻 I'm working towards releasing SaaS products with @codox
 - 🏢 Technical Lead @papertrailio
 - 🌐 Website: www.rexchoppers.com
