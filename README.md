@@ -8,10 +8,10 @@
 - 🏢 Technical Lead @papertrailio
 - 🌐 Website: www.rexchoppers.com
 - 🌱 I’m currently learning more QT/C++
-- 📖 Programming Languages: PHP, GO, JS/TS, Java, Python, Dart, SQL, HTML/CSS (The web stuff)
+- 📖 Programming Languages: PHP, GO, C#, JS/TS, Java, Python, Dart, SQL, HTML/CSS (The web stuff)
 - 📩 DevOps: Github, Gitlab, Docker, Kubernetes
 - 💾 Databases: MySQL, Postgres, MSSQL, MongoDB, Redis
-- ☁️ Cloud Platforms: DigitalOcean, Google Cloud Platform, AWS, Heroku
+- ☁️ Cloud Platforms: DigitalOcean, Google Cloud Platform, AWS, Heroku, Scaleway, Hetzner
 - 🤷‍♂️ Other stuff: Grafana, Linux, RabbitMQ, NATS MQ, OpsGenie
 
 
