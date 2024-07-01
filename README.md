@@ -1,7 +1,9 @@
 ### Hi 👋
 - ⛄ I am 25 Years old
-- ⌨️ I've been programming for 12 years
-- 👨‍🎓Currently studying BSc Computing + IT at The Open University 
+- ⌨️  I've been programming for 12 years
+- 👨‍🎓 Currently studying BSc Computing + IT at The Open University
+- 📜 Certifications
+       - AWS Certified Cloud Practitioner (Issued June 2024, Expires June 2027)
 - 🇬🇧 Born and living in the UK
 - 🔭 Current Projects: AWMS w/ Codox + AWS Certifications
 - 💻 I'm working towards releasing SaaS products with @codox
@@ -14,5 +16,4 @@
 - ☁️ Cloud Platforms: DigitalOcean, Google Cloud Platform, AWS, Heroku, Scaleway, Hetzner
 - 🤷‍♂️ Other stuff: Grafana, Linux, RabbitMQ, NATS MQ, OpsGenie
 
-
-My repositories consist of new and in-progress projects alongside the old and very ugly projects 
+My repositories consist of new and in-progress projects alongside the old and very ugly projects. 
