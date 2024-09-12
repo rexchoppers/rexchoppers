@@ -1,7 +1,7 @@
 ### Hi 👋
 - ⛄ I am 25 Years old
 - ⌨️  I've been programming for 12 years
-- 👨‍🎓 Currently studying BSc Computing + IT at The Open University
+- 👨‍🎓 Currently studying BSc Computing + IT at The Open University (On Module 2/4)
 - 📜 Certifications
   - AWS Certified Cloud Practitioner (Issued June 2024, Expires June 2027)
 - 🇬🇧 Born and living in the UK
