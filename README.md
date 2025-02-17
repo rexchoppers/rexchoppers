@@ -1,5 +1,5 @@
 ### Hi 👋
-- ⛄ I am 25 Years old
+- ⛄ I am 26 Years old
 - ⌨️  I've been programming for 13 years
 - 👨‍🎓 Currently studying BSc Computing + IT at The Open University (On Module 2/4)
 - 📜 Certifications
