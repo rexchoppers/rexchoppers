@@ -4,6 +4,8 @@
 - 👨‍🎓 Currently studying BSc Computing + IT at The Open University (On Module 2/4)
 - 📜 Certifications
   - AWS Certified Cloud Practitioner (Issued June 2024, Expires June 2027)
+  - BCS Level 3 Certificate in Software Development Context and Methodologies
+  - BCS Level 3 Certificate in Programming
 - 🇬🇧 Born and living in the UK
 - 🔭 Current Projects: AWMS w/ Codox + AWS Certifications
 - 💻 I'm working towards releasing SaaS products with @codox
