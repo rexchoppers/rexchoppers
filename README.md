@@ -3,7 +3,7 @@
 - ⌨️  I've been programming for 13 years
 - 👨‍🎓 Currently studying BSc Computing + IT at The Open University (On Module 2/4)
 - 📜 Certifications
-  - AWS Certified Developer - Associate (Issued August 2026, Expires August 2028)
+  - AWS Certified Developer - Associate (Issued August 2025, Expires August 2028)
   - AWS Certified AI Practitioner (Issued April 2025, Expires April 2028)
   - AWS Certified Cloud Practitioner (Issued June 2024, Expires June 2027)
   - BCS Level 3 Certificate in Software Development Context and Methodologies
