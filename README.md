@@ -5,7 +5,7 @@
 - 📜 Certifications
   - AWS Certified Developer - Associate (Issued August 2025, Expires August 2028)
   - AWS Certified AI Practitioner (Issued April 2025, Expires April 2028)
-  - AWS Certified Cloud Practitioner (Issued June 2024, Expires June 2027)
+  - AWS Certified Cloud Practitioner (Issued June 2024, Expires August 2028)
   - BCS Level 3 Certificate in Software Development Context and Methodologies
   - BCS Level 3 Certificate in Programming
 - 🇬🇧 Born and living in the UK
