@@ -9,15 +9,13 @@
   - BCS Level 3 Certificate in Software Development Context and Methodologies
   - BCS Level 3 Certificate in Programming
 - 🇬🇧 Born and living in the UK
-- 🔭 Current Projects: AWMS w/ Codox + AWS Certifications
-- 💻 I'm working towards releasing SaaS products with @codox
+- 🔭 Current Projects: Status For Systems
 - 🏢 Technical Lead @papertrailio
 - 🌐 Website: www.rexchoppers.com
-- 🌱 I’m currently learning more QT/C++
-- 📖 Programming Languages: PHP, GO, C#, JS/TS, Java, Python, Dart, SQL, HTML/CSS (The web stuff)
+- 📖 Programming Languages: JS/TS, Java, Python, PHP, GO, C#, Dart, SQL, HTML/CSS
 - 📩 DevOps: Github, Gitlab, Docker, Kubernetes
-- 💾 Databases: MySQL, Postgres, MSSQL, MongoDB, Redis
-- ☁️ Cloud Platforms: DigitalOcean, Google Cloud Platform, AWS, Heroku, Scaleway, Hetzner
+- 💾 Databases: MySQL, Postgres, MongoDB, Redis, DynamoDB
+- ☁️ Cloud Platforms: DigitalOcean, GCP, AWS
 - 🤷‍♂️ Other stuff: Grafana, Linux, RabbitMQ, NATS MQ, OpsGenie
 
 My repositories consist of new and in-progress projects alongside the old and very ugly projects.
