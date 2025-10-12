@@ -10,7 +10,7 @@
   - BCS Level 3 Certificate in Programming
 - 🇬🇧 Born and living in the UK
 - 🔭 Current Projects: Status For Systems
-- 🏢 Technical Lead @papertrailio
+- 🏢 Technical Lead @ TBA
 - 🌐 Website: www.rexchoppers.com
 - 📖 Programming Languages: JS/TS, Java, Python, PHP, GO, C#, Dart, SQL, HTML/CSS
 - 📩 DevOps: Github, Gitlab, Docker, Kubernetes
