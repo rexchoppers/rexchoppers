@@ -1,6 +1,6 @@
 ### Hi 👋
 - ⛄ I am 26 Years old
-- ⌨️  I've been programming for 13 years
+- ⌨️  I've been programming for 14 years
 - 👨‍🎓 Currently studying BSc Computing + IT at The Open University (On Module 2/4)
 - 📜 Certifications
   - AWS Certified Developer - Associate (Issued August 2025, Expires August 2028)
